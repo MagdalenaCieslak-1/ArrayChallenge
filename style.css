@@ -1,0 +1,12 @@
+
+/*  CSS statement that changes the first paragraph tag in the html page to red */
+
+#listOfMovies :first-child{
+ color: red;
+}
+
+/*  CSS statement that changes the last item in the list to a blue colour */
+ol :last-child{
+    color: blue;
+}
+
